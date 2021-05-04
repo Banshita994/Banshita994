@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python, Java, C**
 
-- 📫 How to reach me **datta.roy.banshita@gmail.com**
+- 📫 How to reach me **datta.roy.banshita@gmail.com** or **datta.rimpi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
