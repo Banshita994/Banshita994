@@ -10,9 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/banshita_roy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="banshita_roy" height="30" width="40" /></a>
+<a href="https://twitter.com/iam_bdroy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iam_bdroy" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/banshita-datta-roy-154bb9184/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="banshita-datta-roy-154bb9184/" height="30" width="40" /></a>
-<a href="https://instagram.com/fictiophilian_soul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="fictiophilian_soul" height="30" width="40" /></a>
+<a href="https://instagram.com/iam_bdroy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iam_bdroy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/12019009023018_H" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="12019009023018_H" height="30" width="40" /></a>
   <a href="https://www.facebook.com/banshita.roy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Banshita Datta Roy" height="30" width="40" /></a>
 </p>
