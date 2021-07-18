@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banshita04&label=Profile%20views&color=0e75b6&style=flat" alt="banshita04" /> </p>
 
-<p align="left"> <a href="https://twitter.com/banshita_roy" target="blank"><img src="https://img.shields.io/twitter/follow/banshita_roy?logo=twitter&style=for-the-badge" alt="banshita_roy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iam_bdroy" target="blank"><img src="https://img.shields.io/twitter/follow/iam_bdroy?logo=twitter&style=for-the-badge" alt="iam_bdroy" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Java, C, JavaScript, CSS, Java**
 
