@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/banshita_roy" target="blank"><img src="https://img.shields.io/twitter/follow/banshita_roy?logo=twitter&style=for-the-badge" alt="banshita_roy" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Java, C**
+- 🌱 I’m currently learning **Python, Java, C, JavaScript, CSS, Java**
 
 - 📫 How to reach me **datta.roy.banshita@gmail.com** or **datta.rimpi@gmail.com**
 
