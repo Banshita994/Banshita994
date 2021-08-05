@@ -8,11 +8,7 @@
 
 - 📫 How to reach me **datta.roy.banshita@gmail.com** or **datta.rimpi@gmail.com**
 
-
-
 ## My GitHub statistics : 
-
-![Banshita's github stats](https://github-readme-stats.vercel.app/api?username=banshita04&count_private=true&show_icons=True&theme=gotham)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banshita04&hide=MATLAB&exclude_repo=dotfiles)
 
