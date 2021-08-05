@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/iam_bdroy" target="blank"><img src="https://img.shields.io/twitter/follow/iam_bdroy?logo=twitter&style=for-the-badge" alt="iam_bdroy" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Java, C, JavaScript, CSS, HTML**
+- 🌱 I’m currently learning/using **Python, Java, C, JavaScript, CSS, HTML**
 
 - 📫 How to reach me **datta.roy.banshita@gmail.com** or **datta.rimpi@gmail.com**
 
