@@ -9,16 +9,6 @@
 - 📫 How to reach me **datta.roy.banshita@gmail.com** or **datta.rimpi@gmail.com**
 
 
-## Languages and Software I know and/or use:
-
-
-<img align="left" alt="Python" width="36px" src="https://user-images.githubusercontent.com/55111154/100546857-8ba9c700-3289-11eb-9627-ae469441946b.png" />
-
-<img align="left" alt="Java" width="28px" src= "https://user-images.githubusercontent.com/55111154/100549990-ab96b600-329c-11eb-865d-419e80f8b710.png"/>
-
-<br/>
-<br/>
-<br/>
 
 ## My GitHub statistics : 
 
