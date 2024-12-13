@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banshita04&label=Profile%20views&color=0e75b6&style=flat" alt="banshita04" /> </p>
 
-- 🌱 I’m currently learning/using **Python, Java, C, JavaScript, CSS, HTML**
+- 🌱 I’m currently learning/using **Java, JavaScript, CSS, HTML, Python, C**
 
 - 📫 How to reach me **banshita.dattaroy.uemk.cs@gmail.com** or **datta.rimpi@gmail.com**
 
